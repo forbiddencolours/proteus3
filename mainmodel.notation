@@ -6,6 +6,10 @@
       <layoutConstraint xmi:type="notation:Location" xmi:id="_R6Lcwo9mEeWz3bpCfYqfHw" y="5"/>
     </children>
     <children xmi:type="notation:BasicCompartment" xmi:id="_R6Lcw49mEeWz3bpCfYqfHw" type="7017">
+      <children xmi:type="notation:Shape" xmi:id="_hNGF0I9pEeWHPacC9kZYoQ" type="3012">
+        <element xmi:type="uml:Property" href="mainmodel.uml#_hMqoAI9pEeWHPacC9kZYoQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_hNGF0Y9pEeWHPacC9kZYoQ"/>
+      </children>
       <styles xmi:type="notation:TitleStyle" xmi:id="_R6LcxI9mEeWz3bpCfYqfHw"/>
       <styles xmi:type="notation:SortingStyle" xmi:id="_R6MD0I9mEeWz3bpCfYqfHw"/>
       <styles xmi:type="notation:FilteringStyle" xmi:id="_R6MD0Y9mEeWz3bpCfYqfHw"/>
